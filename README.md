@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+
+Here's a description for your Tic-Tac-Toe repository:
+
+Tic-Tac-Toe Game (React + Tailwind CSS) 🎮
+This is a simple yet interactive Tic-Tac-Toe game built with React and styled using Tailwind CSS. The game features:
+
+✅ A responsive and visually appealing design
+✅ Game history with the ability to jump to previous moves
+✅ Win detection with a clear status update
+✅ Interactive and smooth user experience
+
+🚀 Tech Stack:
+
+React (useState for state management)
+Tailwind CSS (for modern styling)
+🔹 How to Run:
+
+Clone the repo:
+sh
+Copy
+Edit
+git clone <your-repo-link>
+cd tic-tac-toe
+Install dependencies:
+sh
+Copy
+Edit
+npm install
+Start the development server:
+sh
+Copy
+Edit
+npm run dev
+🎯 Play, have fun, and feel free to contribute!
+>>>>>>> origin/main
